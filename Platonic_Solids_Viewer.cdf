@@ -23,10 +23,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[      1084,         20]
-NotebookDataLength[    176306,       2787]
-NotebookOptionsPosition[    175652,       2761]
-NotebookOutlinePosition[    176093,       2778]
-CellTagsIndexPosition[    176050,       2775]
+NotebookDataLength[    175927,       2783]
+NotebookOptionsPosition[    175274,       2757]
+NotebookOutlinePosition[    175715,       2774]
+CellTagsIndexPosition[    175672,       2771]
 WindowTitle->Platonic Solids -- Interactive Viewer
 WindowFrame->Normal*)
 
@@ -2743,19 +2743,15 @@ $CellContext`phi1$22396 $CellContext`phi2$22396 Compile`$228 -
 
 Cell[CellGroupData[{
 
-Cell["Notes", "Section",ExpressionUUID->"e2f56fb6-901c-44e0-84f7-f3ece20bfe96"],
+Cell["", "Section",
+ CellChangeTimes->{{3.994259022934743*^9, 
+  3.9942590238058567`*^9}},ExpressionUUID->"e2f56fb6-901c-44e0-84f7-\
+f3ece20bfe96"],
 
-Cell["\<\
-Umax values are the exact analytic dual-vertex values from the dissertation \
-(Tetrahedron 4/3, Octahedron 1.548, Cube 2.023, Icosahedron 1.376, \
-Dodecahedron 1.938). Vmax is found numerically once at startup over a fixed \
-\[PlusMinus]8 window, so switching the range slider never changes the \
-color/height normalization.
-
-To present this without a full Mathematica license: evaluate both cells once, \
-then File > Save As > Computable Document Format (CDF), and open the .cdf \
-with the free Wolfram Player.\
-\>", "Text",ExpressionUUID->"3e656aeb-f5cb-4b47-ae86-9cfb643cdbe6"]
+Cell["", "Text",
+ CellChangeTimes->{{3.9942590201442537`*^9, 
+  3.994259020494626*^9}},ExpressionUUID->"3e656aeb-f5cb-4b47-ae86-\
+9cfb643cdbe6"]
 }, Open  ]]
 }, Open  ]]
 },
@@ -2764,7 +2760,7 @@ WindowMargins->{{0, Automatic}, {Automatic, 0}},
 WindowTitle->"Platonic Solids -- Interactive Viewer",
 FrontEndVersion->"14.3 for Linux x86 (64-bit) (July 8, 2025)",
 StyleDefinitions->"Default.nb",
-ExpressionUUID->"a5153edb-dac9-4c10-8173-a63bcdfafddb"
+ExpressionUUID->"20a85d55-444e-436a-ab5a-3f6cd00947cd"
 ]
 (* End of Notebook Content *)
 
@@ -2794,12 +2790,12 @@ Cell[CellGroupData[{
 Cell[6551, 179, 95, 0, 65, "Section",ExpressionUUID->"562eeede-2301-442c-8f88-b77a8055cde6"],
 Cell[CellGroupData[{
 Cell[6671, 183, 1546, 35, 437, "Input",ExpressionUUID->"b27cfa94-ad6b-4664-a3c4-0f7566674086"],
-Cell[8220, 220, 166683, 2519, 594, "Output",ExpressionUUID->"b7648be2-3a44-4dfa-820b-b8662ed8a4bf"]
+Cell[8220, 220, 166683, 2519, 574, "Output",ExpressionUUID->"b7648be2-3a44-4dfa-820b-b8662ed8a4bf"]
 }, Open  ]]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[174952, 2745, 79, 0, 65, "Section",ExpressionUUID->"e2f56fb6-901c-44e0-84f7-f3ece20bfe96"],
-Cell[175034, 2747, 590, 10, 143, "Text",ExpressionUUID->"3e656aeb-f5cb-4b47-ae86-9cfb643cdbe6"]
+Cell[174952, 2745, 147, 3, 65, "Section",ExpressionUUID->"e2f56fb6-901c-44e0-84f7-f3ece20bfe96"],
+Cell[175102, 2750, 144, 3, 33, "Text",ExpressionUUID->"3e656aeb-f5cb-4b47-ae86-9cfb643cdbe6"]
 }, Open  ]]
 }, Open  ]]
 }
@@ -2808,4 +2804,4 @@ Cell[175034, 2747, 590, 10, 143, "Text",ExpressionUUID->"3e656aeb-f5cb-4b47-ae86
 
 (* End of internal cache information *)
 
-(* NotebookSignature 8u0IHUsbY#LFyC1Ui9Ys3dSM *)
+(* NotebookSignature vuDZ8MTGD4lvSBK#UxXSp6f# *)
